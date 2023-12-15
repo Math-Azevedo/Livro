@@ -1,0 +1,50 @@
+body{
+    background-color:  #d1e0e0;
+}
+
+div{
+    margin-left: 20vw;
+    width: 60vw;
+    text-align: center;
+    font-family: Arial;
+    border-bottom: 1px solid #9ea5a5;
+    margin-bottom: 30px;
+}
+
+p{
+    font-size: 20px;
+}
+
+#capa{
+    width: 200px;
+}
+
+span{
+    color: rgb(83, 2, 83);
+    font-weight: bold;
+}
+
+a{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    background-color: rgb(13, 255, 13);
+    padding: 5px;
+    border-radius: 15px;
+    margin-bottom: 10px;
+}
+#autor{
+    border-radius: 60%;
+    height: 150px;
+}
+
+#criador{
+    font-size: 15px;
+}
+
+footer{
+    margin-left: 20vw;
+    width: 60vw;
+    text-align: center;
+    font-family: Verdana; 
+}
